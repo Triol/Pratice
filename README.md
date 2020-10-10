@@ -1,5 +1,5 @@
 # Pratice
-Á·Ï°Ìâ
+ç»ƒä¹ é¢˜
 #### including 
--[Å£¿Í](/nowcoder)<br>
--[Âå¹È](/luogu)<br>
+-[ç‰›å®¢](/nowcoder)<br>
+-[æ´›è°·](/luogu)<br>
